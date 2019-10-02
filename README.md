@@ -5,8 +5,8 @@ Technology:
 Postgres SQL, golang
 
 golang Libraries used :
-JWT
-bcrypt
-pq
-net/http
+JWT,
+bcrypt,
+pq,
+net/http,
 
